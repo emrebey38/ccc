@@ -1,0 +1,412 @@
+Uri: https://sindevo.com/minio/circles/index.html
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\index.html
+Content Type: text/html
+
+Uri: https://sindevo.com/minio/circles/images/apple-touch-icon.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/apple-touch-startup-image-320x460.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\apple-touch-startup-image-320x460.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/css/framework7.css
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\css\framework7.css
+Content Type: text/css
+
+Uri: https://sindevo.com/minio/circles/style.css
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\style.css
+Content Type: text/css
+
+Uri: https://sindevo.com/minio/circles/css/swipebox.css
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\css\swipebox.css
+Content Type: text/css
+
+Uri: http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700,900
+File Name: E:\Crawler\fal4appstyle\sindevo.com\css.css
+Content Type: text/css
+
+Uri: https://sindevo.com/minio/circles/about.html
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\about.html
+Content Type: text/html
+
+Uri: https://sindevo.com/minio/circles/features.html
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\features.html
+Content Type: text/html
+
+Uri: https://sindevo.com/minio/circles/photos.html
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\photos.html
+Content Type: text/html
+
+Uri: https://sindevo.com/minio/circles/videos.html
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\videos.html
+Content Type: text/html
+
+Uri: https://sindevo.com/minio/circles/blog.html
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\blog.html
+Content Type: text/html
+
+Uri: https://sindevo.com/minio/circles/toogle.html
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\toogle.html
+Content Type: text/html
+
+Uri: https://sindevo.com/minio/circles/tabs.html
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\tabs.html
+Content Type: text/html
+
+Uri: https://sindevo.com/minio/circles/contact.html
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\contact.html
+Content Type: text/html
+
+Uri: https://sindevo.com/minio/circles/images/photos/photo8.jpg
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\photos\photo8.jpg
+Content Type: image/jpeg
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/user.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\user.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/lock.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\lock.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/heart.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\heart.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/envelope.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\envelope.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/twitter.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\twitter.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/facebook.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\facebook.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/googleplus.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\googleplus.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/dribbble.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\dribbble.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/linkedin.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\linkedin.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/pinterest.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\pinterest.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/js/jquery-1.10.1.min.js
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\js\jquery-1.10.1.min.js
+Content Type: application/javascript
+
+Uri: https://sindevo.com/minio/circles/js/jquery.validate.min.js
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\js\jquery.validate.min.js
+Content Type: application/javascript
+
+Uri: https://sindevo.com/minio/circles/js/framework7.js
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\js\framework7.js
+Content Type: application/javascript
+
+Uri: https://sindevo.com/minio/circles/js/my-app.js
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\js\my-app.js
+Content Type: application/javascript
+
+Uri: https://sindevo.com/minio/circles/js/jquery.swipebox.js
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\js\jquery.swipebox.js
+Content Type: application/javascript
+
+Uri: https://sindevo.com/minio/circles/js/jquery.fitvids.js
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\js\jquery.fitvids.js
+Content Type: application/javascript
+
+Uri: https://sindevo.com/minio/circles/js/email.js
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\js\email.js
+Content Type: application/javascript
+
+Uri: https://sindevo.com/minio/circles/images/icons/turquoise/home.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\turquoise\home.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/turquoise/user.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\turquoise\user.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/turquoise/settings.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\turquoise\settings.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/turquoise/photos.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\turquoise\photos.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/turquoise/blog.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\turquoise\blog.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/turquoise/contact.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\turquoise\contact.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/turquoise/lock.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\turquoise\lock.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/turquoise/tools.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\turquoise\tools.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/turquoise/envelope.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\turquoise\envelope.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/turquoise/download.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\turquoise\download.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/turquoise/video.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\turquoise\video.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/turquoise/heart.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\turquoise\heart.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/turquoise/logout.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\turquoise\logout.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/turquoise/toogle.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\turquoise\toogle.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/turquoise/docs.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\turquoise\docs.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/turquoise/responsive.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\turquoise\responsive.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/home.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\home.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/settings.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\settings.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/photos.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\photos.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/blog.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\blog.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/contact.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\contact.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/tools.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\tools.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/download.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\download.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/video.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\video.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/logout.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\logout.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/toogle.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\toogle.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/docs.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\docs.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/white/map.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\white\map.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/trans_black.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\trans_black.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/menu_open.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\menu_open.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/bg.jpg
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://sindevo.com/minio/circles/images/bullet.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\bullet.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/switch_13.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\switch_13.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/switch_12.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\switch_12.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/switch_11.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\switch_11.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/comments.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\comments.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/css/reset.css
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\css\reset.css
+Content Type: text/css
+
+Uri: https://sindevo.com/minio/circles/css/img/loader.gif
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\css\img\loader.gif
+Content Type: image/gif
+
+Uri: https://sindevo.com/minio/circles/css/img/icons.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\css\img\icons.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/page_photo.jpg
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\page_photo.jpg
+Content Type: image/jpeg
+
+Uri: https://sindevo.com/minio/circles/images/icons/black/photos.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\black\photos.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/black/blog.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\black\blog.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/black/responsive.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\black\responsive.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/black/toogle.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\black\toogle.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/black/user.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\black\user.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/black/contact.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\black\contact.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/black/heart.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\black\heart.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/icons/black/phone.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\icons\black\phone.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/photos/photo1.jpg
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\photos\photo1.jpg
+Content Type: image/jpeg
+
+Uri: https://sindevo.com/minio/circles/images/photos/photo2.jpg
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\photos\photo2.jpg
+Content Type: image/jpeg
+
+Uri: https://sindevo.com/minio/circles/images/photos/photo3.jpg
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\photos\photo3.jpg
+Content Type: image/jpeg
+
+Uri: https://sindevo.com/minio/circles/images/photos/photo4.jpg
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\photos\photo4.jpg
+Content Type: image/jpeg
+
+Uri: https://sindevo.com/minio/circles/images/photos/photo5.jpg
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\photos\photo5.jpg
+Content Type: image/jpeg
+
+Uri: https://sindevo.com/minio/circles/images/photos/photo6.jpg
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\photos\photo6.jpg
+Content Type: image/jpeg
+
+Uri: https://sindevo.com/minio/circles/images/photos/photo7.jpg
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\photos\photo7.jpg
+Content Type: image/jpeg
+
+Uri: https://sindevo.com/minio/circles/images/photos/photo9.jpg
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\photos\photo9.jpg
+Content Type: image/jpeg
+
+Uri: https://sindevo.com/minio/circles/images/photos/photo10.jpg
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\photos\photo10.jpg
+Content Type: image/jpeg
+
+Uri: https://sindevo.com/minio/circles/images/photos/photo11.jpg
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\photos\photo11.jpg
+Content Type: image/jpeg
+
+Uri: https://sindevo.com/minio/circles/images/photos/photo12.jpg
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\photos\photo12.jpg
+Content Type: image/jpeg
+
+Uri: https://sindevo.com/minio/circles/images/photos/photo13.jpg
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\photos\photo13.jpg
+Content Type: image/jpeg
+
+Uri: https://sindevo.com/minio/circles/images/photos/photo14.jpg
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\photos\photo14.jpg
+Content Type: image/jpeg
+
+Uri: https://sindevo.com/minio/circles/images/photos/photo15.jpg
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\photos\photo15.jpg
+Content Type: image/jpeg
+
+Uri: https://sindevo.com/minio/circles/images/switch_13_active.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\switch_13_active.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/blog-single.html
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\blog-single.html
+Content Type: text/html
+
+Uri: https://sindevo.com/minio/circles/images/swipe_more.png
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\swipe_more.png
+Content Type: image/png
+
+Uri: https://sindevo.com/minio/circles/images/loader.gif
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\loader.gif
+Content Type: image/gif
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d193578.74109041138!2d-73.97968099999997!3d40.70331274999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b:0xc80b8f06e177fe62!2sNew+York+NYC%2C+New+York%2C+Statele+Unite+ale+Americii!5e0!3m2!1sro!2s!4v1425027721891
+File Name: E:\Crawler\fal4appstyle\sindevo.com\maps\embed.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/nrJtHemSPW4
+File Name: E:\Crawler\fal4appstyle\sindevo.com\embed\nrJtHemSPW4.html
+Content Type: text/html
+
+Uri: https://www.youtube.com/embed/mdfMT5Zi8Eo
+File Name: E:\Crawler\fal4appstyle\sindevo.com\embed\mdfMT5Zi8Eo.html
+Content Type: text/html
+
+Uri: https://sindevo.com/minio/circles/images/post_photo.jpg
+File Name: E:\Crawler\fal4appstyle\sindevo.com\minio\circles\images\post_photo.jpg
+Content Type: image/jpeg
+
